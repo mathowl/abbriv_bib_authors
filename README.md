@@ -7,7 +7,7 @@ You can call it from the command line:
 python abbriv_bib_authors unabbreviated.bib abbreviated.bib
 ```
 
-The first names in the author lines in the `unabbreviated.bib` will be converted to initials in `abbreviated.bib`. 
+The first names in the author lines of `unabbreviated.bib` will be converted to initials in `abbreviated.bib`. 
 
 It is read line by line so the author lines in the `unabbreviated.bib` cannot be on different lines. If the names in the unabbreviated.bib have already been abbreviated to initials it will not cause any error.
 
