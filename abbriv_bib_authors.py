@@ -16,7 +16,7 @@ def abbreviate_name(match_raw):
 
         else:
             new_names_list.append(name)
-    print(new_names_list)       
+   
     return create_author_line(new_names_list)
 
 
