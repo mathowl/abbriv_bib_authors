@@ -1,5 +1,5 @@
 # Abbreviate authors in bibtex
-Python script for substituting first names of authors by their intials.  
+Python script for substituting first names of authors by their initials.  
 
 You can call it from the command line:
 
