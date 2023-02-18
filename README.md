@@ -1,5 +1,5 @@
 # abbriv_bib_authors
-Python script for abbreviating first names authors in .bib
+Python script for to abbreviate first names of authors to intials in your bibtex fiels.  
 
 You can call it from the command line:
 
