@@ -4,7 +4,7 @@ Python script for substituting first names of authors by their initials.
 You can call it from the command line:
 
 ```
-python abbriv_bib_authors unabbreviated.bib abbreviated.bib
+python abbriv_bib_authors.py unabbreviated.bib abbreviated.bib
 ```
 
 The first names in the author lines of `unabbreviated.bib` will be converted to initials in `abbreviated.bib`. 
